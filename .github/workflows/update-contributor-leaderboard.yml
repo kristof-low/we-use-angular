@@ -22,3 +22,4 @@ jobs:
         with:
           commit-message: "docs(readme): update contributor leaderboard"
 
+

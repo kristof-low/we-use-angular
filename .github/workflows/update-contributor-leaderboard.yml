@@ -22,6 +22,6 @@ jobs:
         uses: kristof-low/github-contributor-leaderboard@beta
         with:
           commit-message: "docs(readme): update contributor leaderboard"
-          use-pull-requests: "true"
+          use-pull-request: "true"
 
 

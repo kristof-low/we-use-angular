@@ -105,7 +105,7 @@ Want to see your name here? Start contributing!
 |------|-------------|----------------|
 | 🥇 | [rohtashsethi](https://github.com/rohtashsethi) | 16 |
 | 🥈 | [kristof-low](https://github.com/kristof-low) | 6 |
-| 🥉 | [github-actions[bot]](https://github.com/apps/github-actions) | 5 |
+| 🥉 | [github-actions[bot]](https://github.com/apps/github-actions) | 6 |
 | 4 | [ajitzero](https://github.com/ajitzero) | 2 |
 | 5 | [yshashi](https://github.com/yshashi) | 2 |
 | 6 | [Saverio0134](https://github.com/Saverio0134) | 2 |

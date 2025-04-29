@@ -1,6 +1,6 @@
 # 🌐 We Use Angular
 
-![Angular Logo](./angular_logo.png)
+![Ng Delhi Logo](./ng-delhi-logo.png)
 
 A community-driven directory of companies that use **Angular** in their tech stack.
 
@@ -93,24 +93,11 @@ We proudly credit all community members who contribute entries, edits, or feedba
 [<img src="https://avatars.githubusercontent.com/u/36048341" width="70px;"/>](https://github.com/AyushiRohela/)
 [<img src="https://avatars.githubusercontent.com/u/96347576" width="70px;"/>](https://github.com/adi-ray/)
 [<img src="https://avatars.githubusercontent.com/u/19947758" width="70px;"/>](https://github.com/ajitzero/)
+[<img src="https://avatars.githubusercontent.com/u/26763175" width="70px;"/>](https://github.com/ArshdeepGrover/)
 
 Want to see your name here? Start contributing!
 
 ### 🏆 Contributor Leaderboard
 
 <!-- leaderboard-start -->
-
-
-| Rank | Contributor | Contributions |
-|------|-------------|----------------|
-| 🥇 | [rohtashsethi](https://github.com/rohtashsethi) | 16 |
-| 🥈 | [github-actions[bot]](https://github.com/apps/github-actions) | 4 |
-| 🥉 | [ajitzero](https://github.com/ajitzero) | 2 |
-| 4 | [yshashi](https://github.com/yshashi) | 2 |
-| 5 | [Saverio0134](https://github.com/Saverio0134) | 2 |
-| 6 | [kristof-low](https://github.com/kristof-low) | 2 |
-| 7 | [adi-ray](https://github.com/adi-ray) | 1 |
-| 8 | [AyushiRohela](https://github.com/AyushiRohela) | 1 |
-| 9 | [HimanshuGoel](https://github.com/HimanshuGoel) | 1 |
-
 <!-- leaderboard-end -->

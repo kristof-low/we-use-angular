@@ -110,9 +110,9 @@ Want to see your name here? Start contributing!
 | 4 | [ajitzero](https://github.com/ajitzero) | 2 |
 | 5 | [yshashi](https://github.com/yshashi) | 2 |
 | 6 | [Saverio0134](https://github.com/Saverio0134) | 2 |
-| 7 | [ArshdeepGrover](https://github.com/ArshdeepGrover) | 1 |
-| 8 | [AyushiRohela](https://github.com/AyushiRohela) | 1 |
-| 9 | [HimanshuGoel](https://github.com/HimanshuGoel) | 1 |
-| 10 | [github-actions[bot]](https://github.com/apps/github-actions) | 1 |
+| 7 | [github-actions[bot]](https://github.com/apps/github-actions) | 2 |
+| 8 | [ArshdeepGrover](https://github.com/ArshdeepGrover) | 1 |
+| 9 | [AyushiRohela](https://github.com/AyushiRohela) | 1 |
+| 10 | [HimanshuGoel](https://github.com/HimanshuGoel) | 1 |
 
 <!-- leaderboard-end -->

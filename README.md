@@ -105,7 +105,7 @@ Want to see your name here? Start contributing!
 | Rank | Contributor | Contributions |
 |------|-------------|----------------|
 | 🥇 | [rohtashsethi](https://github.com/rohtashsethi) | 16 |
-| 🥈 | [github-actions[bot]](https://github.com/apps/github-actions) | 3 |
+| 🥈 | [github-actions[bot]](https://github.com/apps/github-actions) | 4 |
 | 🥉 | [kristof-low](https://github.com/kristof-low) | 3 |
 | 4 | [adi-ray](https://github.com/adi-ray) | 2 |
 | 5 | [ajitzero](https://github.com/ajitzero) | 2 |

@@ -19,7 +19,7 @@ jobs:
 
     steps:
       - name: Update Leaderboard
-        uses: kristof-low/github-contributor-leaderboard@v1
+        uses: kristof-low/github-contributor-leaderboard@beta
         with:
           commit-message: "docs(readme): update contributor leaderboard"
           use-pull-request: "true"

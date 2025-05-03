@@ -1,6 +1,1 @@
-# Default reviewer for everything
-* @rohtashsethi
-
-# Optional: Specific reviewers for files
-/companies.json @howdysuraj
-/README.md @howdysuraj
+/README.md @kristof-low
